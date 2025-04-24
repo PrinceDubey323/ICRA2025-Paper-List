@@ -10,6 +10,13 @@ Note: This list includes papers that were turned from journals to conference pre
 
 | Title | Authors | Session |
 | ----- | ------- | ------- |
+| Geometric Design and Gait Co-Optimization for Soft Continuum Robots Swimming at Low and High Reynolds Numbers | Yang, Yanhao;Hatton, Ross  | Award Finalists 5 |
+| ShadowTac: Dense Measurement of Shear and Normal Deformation of a Tactile Membrane from Colored Shadows | Vitrani, Giuseppe;Pasquale, Basile;Wiertlewski, Michael  | Award Finalists 5 |
+| Occlusion-Aware 6D Pose Estimation with Depth-Guided Graph Encoding and Cross-Semantic Fusion for Robotic Grasping | Liu, Jingyang;Lu, Zhenyu;Chen, Lu;Yang, Jing;Yang, Chenguang  | Award Finalists 5 |
+| Stable Tracking of Eye Gaze Direction During Ophthalmic Surgery | Hong, Tinghe;Cai, Shenlin;Li, Boyang;Huang, Kai  | Award Finalists 6 |
+| Multi-Nonholonomic Robot Object Transportation with Obstacle Crossing Using a Deformable Sheet | Zhang, Weijian;Street, Charlie;Mansouri, Masoumeh | Award Finalists 7 |
+| Configuration-Adaptive Visual Relative Localization for Spherical Modular Self-Reconfigurable Robots | Liu, Yuming;Zheng, Qiu;Tu, Yuxiao;Gao, Yuan; Liang, Guanqi;Lam, Tin Lun | Award Finalists 7 |
+| Realm: Real-Time Line-Of-Sight Maintenance in Multi-Robot Navigation with Unknown Obstacles | Bai, Ruofei;Yuan, Shenghai;Li, Kun;Guo, Hongliang;Yau, Wei-Yun;Xie, Lihua  | Award Finalists 7 |
 | Measurement Simplification in Rho-POMDP with Performance Guarantees | Yotam, Tom;Indelman, Vadim | SLAM 1 |
 | VSS-SLAM: Voxelized Surfel Splatting for Geometally Accurate SLAM | Chen, Xuanhua;Zhang, Yunzhou;Zhang, Zhiyao;Wang, Guoqing;Zhao, Bin;Wang, Xingshuo | SLAM 1 |
 | New Graph Distance Measures and Matching of Topological Maps for Robotic Exploration | Morbidi, Fabio | SLAM 1 |
