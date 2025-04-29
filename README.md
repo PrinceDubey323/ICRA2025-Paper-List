@@ -10,6 +10,7 @@ Note: This list includes papers that were turned from journals to conference pre
 
 | Title | Authors | Session |
 | ----- | ------- | ------- |
+| Dynamic Tube MPC: Learning Error Dynamics with Massively Parallel Simulation for Robust Safety in Practice | Compton, William;Csomay-Shanklin, Noel;Johnson, Cole;Ames, Aaron  | Award Finalists 3 |
 | Geometric Design and Gait Co-Optimization for Soft Continuum Robots Swimming at Low and High Reynolds Numbers | Yang, Yanhao;Hatton, Ross  | Award Finalists 5 |
 | ShadowTac: Dense Measurement of Shear and Normal Deformation of a Tactile Membrane from Colored Shadows | Vitrani, Giuseppe;Pasquale, Basile;Wiertlewski, Michael  | Award Finalists 5 |
 | Occlusion-Aware 6D Pose Estimation with Depth-Guided Graph Encoding and Cross-Semantic Fusion for Robotic Grasping | Liu, Jingyang;Lu, Zhenyu;Chen, Lu;Yang, Jing;Yang, Chenguang  | Award Finalists 5 |
